@@ -1,7 +1,12 @@
 # Alkemy Challenge Wallet C#
 El proyecto está desarrollado con Net Core 6
 
+Sus integrantes fueron :
+Gerardo Javier, Jason Becerra, Jhonnatan, Marcelo Boyanosky, Martín Díaz, Omar Rodríguez, Ubaldo Ramírez, Uziel Patrón
+
 ## **Especificación de la Arquitectura**
+Se utilizaron los principios Solid, se intento crear la aplicacion lo mas limpio posible, el trabajo se dividio por medio de las metodologias SCRUM.
+se puede ver el repositorio original desde aqui https://github.com/gerardojao/Skill-Up-C- 
 
 ### **Capa Controller**
 Será el punto de entrada a la API. En los controladores deberíamos definir la menor cantidad de lógica posible y utilizarlos como un pasamanos con la capa de servicios.
